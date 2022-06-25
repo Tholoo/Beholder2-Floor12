@@ -1,0 +1,12 @@
+{
+    "Order": {
+        "Complaint": "Classify",
+        "Request": "Reject"
+    },
+    "Social Care": {
+        "Complaint": "Reject"
+    },
+    "Culture and Sports": {
+        "Complaint": "Task Force"
+    }
+}

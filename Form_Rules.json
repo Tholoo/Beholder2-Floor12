@@ -1,0 +1,19 @@
+{
+    "Labor": {
+        "Request": "Enact"
+    },
+    "Patriotism": {
+        "Denunciation": "Destroy",
+        "Request": "Clarify"
+    },
+    "Science and Technology": {
+        "Complaint": "Destroy"
+    },
+    "Order": {
+        "Complaint": "Clarify",
+        "Information": "Archive"
+    },
+    "Social Care": {
+        "Request": "Destroy"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Patriotism": {
+        "Denunciation": "Community Service",
+        "Complaint": "Note in Personal File"
+    },
+    "Order": {
+        "Complaint": "Firing Squad",
+        "Information": "Note in Personal File"
+    },
+    "Science and Technology": {
+        "Denunciation": "Firing Squad"
+    },
+    "Culture and Sports": {
+        "Complaint": "Arrest Warrant"
+    }
+}
