@@ -29,7 +29,7 @@ Afterwards just go back to the main menu and select *Process* using *0*, Select 
 
 ![process][process]
 
-[beholder]: images/beholder2.jpg
+[beholder]: images/Beholder2.jpg
 [menu]: images/menu.png
 [rules]: images/rules.png
 [process]: images/process.png
